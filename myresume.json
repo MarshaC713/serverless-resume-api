@@ -1,118 +1,215 @@
 {
-  "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+  "basics":{
+    "name": "Marsha Castello",
+    "label": "Data Analyst",
+    "linktree": "https://linktr.ee/marshacastello",
+    "summary": "I am an experienced Data Analyst, Masters Graduate, Microsoft Azure Certified,"
+    "PRINCE2 Practitioner, and Python Software Engineer Bootcamp Graduate." 
+    "Passionate advocate for sustainable and ethical technological innovation and AI & Machine Learning,"
+    "Committed to continuous professional development and a member of the professional bodies BCS, and CMI."
+    "Projects I am currently deploying include: Azure DevOps IAC & CI/CD, Tableau, Python, Data and AI & Machine Learning Models." 
+    "Code First Girls alumni A Mentee at Cajigo 100 Women in Tech - Mentoring and Networking - Programme."
+    "I am looking for Software / Data Engineering / DevOps opportunities." 
+    
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "London",
+      "countryCode": "UK",
+      "region": "England"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+    "profiles": [ { "network": "Github ",
+      "username": "@MarshaC713",
+      "url": "https://github.com/MarshaC713"
     }]
+       },
+    "profiles": [ { "network": "Linkedin",
+      "username": "Marsha Castello MSc MBCS",
+      "url": "https://www.linkedin.com/in/marshacastellomastersgraduate/"
+    }]
+  
+   ],
+  "projects": [{
+    "name": "Tableau Dashboard ~Covid 19 Vaccination Tracker: ",
+    "skills used: Data Comprehension, Data Modelling & Transformation," 
+    "Maths & Statistical Analysis, Analytical & Visualization Skills, Filtering," 
+    "Sorting and Grouping, Navigation of Tableau Software Suite",
+   "url": "https://github.com/MarshaC713/Tableau-Dashboard-C19-Vaccination-Tracker",
+       }]
+      
+    
+    }],
+  "projects": [{
+    "name": "Advanced Data Analysis - Electric Vehicle Comparison Case Study: ",
+    "skills used: Data Comprehension, Data Modelling & Transformation," 
+    "Maths & Statistical Analysis, Analytical & Visualization Skills, Filtering," 
+    "Sorting and Grouping, Navigation of Tableau Software Suite",
+   "url": "https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree",
+       }]
+    
+    
+   }],
+  "projects": [{
+    "name": "Advanced Data Analysis - Electric Vehicle Comparison Case Study: ",
+    "skills used: Data Comprehension, Data Modelling & Transformation," 
+    "Maths & Statistical Analysis, Analytical & Visualization Skills, Filtering," 
+    "Sorting and Grouping, Navigation of Tableau Software Suite",
+   "url": "https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree",
+       }]
+    
+  "work": [{
+    "name": "UK Civil Service",
+    "position": "Data Analyst",
+    "url": "https://www.gov.uk/government/organisations/civil-service",
+    "summary": "Analyzing large datasets using statistical techniques to identify trends and patterns. Extracting, cleaning, and preparing data for analysis. Collaborating with cross-functional teams to identify and solve business problems using data. Providing data-driven recommendations to inform decision-making and strategy",
+    ]
+       }]
+
+
+  
+  "skills": [{
+
+    "keywords": [
+      "AI & Machine Learning",
+      "Azure",
+       "SQL",
+      "Python",
+      "OpenCV"
+      "Numpy"
+      "Pandas"
+      "Matplotlib"
+       "Seaborn"
+       "Sci-kit-Learn"
+        "HTML",
+      "CSS",
+      "JavaScript",
+       "Bootstrap",
+       "Prince2 Practitioner",
+        "AGILE",
+     }],
+    }],
+  "work": [{
+    "name": "UK Civil Service",
+    "position": "Assistant Manager - Reporting Management Information",
+    "url": "https://www.gov.uk/government/organisations/civil-service",
+    "summary": "Helping to design and implement data systems to store and retrieve data efficiently. Participating in the development and maintenance of reports and dashboards. Collaborating with cross-functional teams to identify ",
+    "highlights": [
+      "Started the company"
+    ]
+       }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
+    "name": "DFID, UK Civil Service",
+    "position": "Project Coordinator",
+    "url": "https://www.gov.uk/government/organisations/civil-service",
+    "summary": "Managing project budgets and resources to meet financial targets. Continuously seeking opportunities to improve project delivery processes and outcomes"
       "Started the company"
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "Coaching Squared Programme",
+    "position": "Career and Professional Development Coach",
+    "startDate": "2011-01-01",
+    "summary": "Providing one-on-one coaching and guidance to clients to help them identify and achieve their career goals. Assessing clients' skills, experience, and goals to develop personalized career development plans. Helping clients to develop job search strategies, including resume and cover letter writing, networking, and interviewing. Providing support",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
     ]
+      }],
+  "volunteer": [{
+    "organization": "British Red Cross",
+    "position": "First Aider",
+    "url": "https://www.redcross.org.uk/get-help",
+    "startDate": "2013-01-01",
+    "summary": "Description…",
+ 
   }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
+    }],
+  "volunteer": [{
+    "organization": "MFHA",
+    "position": "Mental Health First Aider",
+    "url": "https://mhfaengland.org/mhfa-centre/news/MHFA-England-launches-new-Mental-Health-First-Aid-course/?gclid=CjwKCAiAqt-dBhBcEiwATw-ggEaFee-nK0F7CDoqbAXgr3_8nGRZEU8NCeN6OT7dnTsdqRXbZKOghRoCX-gQAvD_BwE",
+    "startDate": "2021-01-01",
+    "summary": "Providing support and guidance to individuals experiencing mental health issues or crises. Assessing the needs of individuals and determining appropriate courses of action, such as referring them to mental health professionals or community resources. Providing emotional support and a listening ear to individuals in distress",
+    "highlights": [
+      "Authour of several web published articles, compiled training and resource material'"
+    ]
+  }],
+  "education, masters": [{ 
+    "institution": "University of London",
+    "url": "https://www.london.ac.uk/",
+    "area": "International Business & Development",
+    "studyType": "Masters",
+  
+    ]
+     }],
+  "education, undergrad": [{
+    "institution": "University of the West of England, Bristol",
+    "url": "https://www.uwe.ac.uk/",
+    "area": "Economics and International Studies",
     "studyType": "Bachelor",
     "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
+  
     ]
+ }],
+  "tech certificates": [{
+    "name": "Azure Fundamentals",
+    "date": "2022-06-29",
+    "issuer": "Microsoft",
+    "url": "https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view?usp=sharing"
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+
+  "tech certificates": [{
+    "name": "IT Specialist Python",
+    "date": "2022-09-20",
+    "issuer": "uCertify",
+    "url": "https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view?usp=sharing"
   }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+ }],
+
+  "tech certificates": [{
+    "name": "AI & Machine Learning",
+    "date": "2022-12",
+    "issuer": "Code First Girls",
+    "url": "https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view?usp=sharing"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+
+  "tech certificates": [{
+    "name": "Introduction to Python",
+    "date": "2022-09-20",
+    "issuer": "Code First Girls",
+    "url": "https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing"
   }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
+}],
+
+  "tech certificates": [{
+    "name": "Advanced Data Analyst Skills bootcamp",
+    "date": "2022-12-05",
+    "issuer": "Avado",
+    "url": "https://drive.google.com/file/d/1jrGWcrN8Pc3GCX_-F5M9L2izx3pUJwsf/view?usp=sharing"
   }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
+
+}],
+
+  "tech certificates": [{
+    "name": "Introduction to Data and SQL",
+    "date": "2022-12-05",
+    "issuer": "Code First Girls",
+    "url": "https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view?usp=sharing"
   }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
+}],
+
+  "tech certificates": [{
+    "name": "Introduction to Python",
+    "date": "2022-12-05",
+    "issuer": "Code First Girls",
+    "url": " https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing"
   }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+
+  "tech certificates": [{
+    "name": "Introduction to Coding (Web Development)",
+    "date": "2021-12-05",
+    "issuer": "She Codes",
+    "url": "https://www.shecodes.io/graduates/19479-marsha-marsha"
   }],
-  "projects": [{
-    "name": "Project",
-    "description": "Description…",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "keywords": [
-      "HTML"
-    ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
-    "roles": [
-      "Team Lead"
-    ],
-    "entity": "Entity",
-    "type": "application"
+  
+
+   
   }]
-}
